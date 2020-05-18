@@ -1,0 +1,26 @@
+C:\Users\dell1\source\repos\Parkinglot\Parkinglot\bin\Debug\netcoreapp3.1\Parkinglot.exe
+C:\Users\dell1\source\repos\Parkinglot\Parkinglot\bin\Debug\netcoreapp3.1\Parkinglot.deps.json
+C:\Users\dell1\source\repos\Parkinglot\Parkinglot\bin\Debug\netcoreapp3.1\Parkinglot.runtimeconfig.json
+C:\Users\dell1\source\repos\Parkinglot\Parkinglot\bin\Debug\netcoreapp3.1\Parkinglot.runtimeconfig.dev.json
+C:\Users\dell1\source\repos\Parkinglot\Parkinglot\bin\Debug\netcoreapp3.1\Parkinglot.dll
+C:\Users\dell1\source\repos\Parkinglot\Parkinglot\bin\Debug\netcoreapp3.1\Parkinglot.pdb
+C:\Users\dell1\source\repos\Parkinglot\Parkinglot\obj\Debug\netcoreapp3.1\Parkinglot.csprojAssemblyReference.cache
+C:\Users\dell1\source\repos\Parkinglot\Parkinglot\obj\Debug\netcoreapp3.1\Parkinglot.csproj.CoreCompileInputs.cache
+C:\Users\dell1\source\repos\Parkinglot\Parkinglot\obj\Debug\netcoreapp3.1\Parkinglot.AssemblyInfoInputs.cache
+C:\Users\dell1\source\repos\Parkinglot\Parkinglot\obj\Debug\netcoreapp3.1\Parkinglot.AssemblyInfo.cs
+C:\Users\dell1\source\repos\Parkinglot\Parkinglot\obj\Debug\netcoreapp3.1\Parkinglot.dll
+C:\Users\dell1\source\repos\Parkinglot\Parkinglot\obj\Debug\netcoreapp3.1\Parkinglot.pdb
+C:\Users\dell1\source\repos\Parkinglot\Parkinglot\obj\Debug\netcoreapp3.1\Parkinglot.genruntimeconfig.cache
+C:\Users\dell1\source\repos\ParkingLot using defaultinterface\Parkinglot\obj\Debug\netcoreapp3.1\Parkinglot.csprojAssemblyReference.cache
+C:\Users\dell1\source\repos\ParkingLot using defaultinterface\Parkinglot\obj\Debug\netcoreapp3.1\Parkinglot.csproj.CoreCompileInputs.cache
+C:\Users\dell1\source\repos\ParkingLot using defaultinterface\Parkinglot\obj\Debug\netcoreapp3.1\Parkinglot.AssemblyInfoInputs.cache
+C:\Users\dell1\source\repos\ParkingLot using defaultinterface\Parkinglot\obj\Debug\netcoreapp3.1\Parkinglot.AssemblyInfo.cs
+C:\Users\dell1\source\repos\ParkingLot using defaultinterface\Parkinglot\obj\Debug\netcoreapp3.1\Parkinglot.dll
+C:\Users\dell1\source\repos\ParkingLot using defaultinterface\Parkinglot\obj\Debug\netcoreapp3.1\Parkinglot.pdb
+C:\Users\dell1\source\repos\ParkingLot using defaultinterface\Parkinglot\bin\Debug\netcoreapp3.1\Parkinglot.exe
+C:\Users\dell1\source\repos\ParkingLot using defaultinterface\Parkinglot\bin\Debug\netcoreapp3.1\Parkinglot.deps.json
+C:\Users\dell1\source\repos\ParkingLot using defaultinterface\Parkinglot\bin\Debug\netcoreapp3.1\Parkinglot.runtimeconfig.json
+C:\Users\dell1\source\repos\ParkingLot using defaultinterface\Parkinglot\bin\Debug\netcoreapp3.1\Parkinglot.runtimeconfig.dev.json
+C:\Users\dell1\source\repos\ParkingLot using defaultinterface\Parkinglot\bin\Debug\netcoreapp3.1\Parkinglot.dll
+C:\Users\dell1\source\repos\ParkingLot using defaultinterface\Parkinglot\bin\Debug\netcoreapp3.1\Parkinglot.pdb
+C:\Users\dell1\source\repos\ParkingLot using defaultinterface\Parkinglot\obj\Debug\netcoreapp3.1\Parkinglot.genruntimeconfig.cache
